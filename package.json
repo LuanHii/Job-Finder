@@ -4,7 +4,7 @@
   "description": "Um site com sistema feito para programadores encontrarem e postarem vagas de trabalho.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon app.js"
   },
   "keywords": [
     "dev",
