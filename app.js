@@ -5,7 +5,7 @@ const db = require("./db/connection");
 const PORT = 3000;
 
 
-
+// starting app
 app.listen(PORT, function() {
     console.log("Rodando na porta: " + PORT);
 });

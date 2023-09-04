@@ -5,4 +5,6 @@ const sequelize = new Sequelize ({
     storage: "./db/app.db"
 }); 
 
+
+// exporting
 module.exports = sequelize;
